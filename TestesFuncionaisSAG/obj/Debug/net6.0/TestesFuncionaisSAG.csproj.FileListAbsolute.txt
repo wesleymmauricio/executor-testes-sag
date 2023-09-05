@@ -1,0 +1,15 @@
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\bin\Debug\net6.0\TestesFuncionaisSAG.deps.json
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\bin\Debug\net6.0\TestesFuncionaisSAG.dll
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\bin\Debug\net6.0\TestesFuncionaisSAG.pdb
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\obj\Debug\net6.0\TestesFuncionaisSAG.csproj.AssemblyReference.cache
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\obj\Debug\net6.0\TestesFuncionaisSAG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\obj\Debug\net6.0\TestesFuncionaisSAG.AssemblyInfoInputs.cache
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\obj\Debug\net6.0\TestesFuncionaisSAG.AssemblyInfo.cs
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\obj\Debug\net6.0\TestesFuncionaisSAG.csproj.CoreCompileInputs.cache
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\obj\Debug\net6.0\TestesFuncionaisSAG.dll
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\obj\Debug\net6.0\refint\TestesFuncionaisSAG.dll
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\obj\Debug\net6.0\TestesFuncionaisSAG.pdb
+D:\Documentos\Wesley\Projeto Teste\TestesFuncionaisSAG\TestesFuncionaisSAG\obj\Debug\net6.0\ref\TestesFuncionaisSAG.dll

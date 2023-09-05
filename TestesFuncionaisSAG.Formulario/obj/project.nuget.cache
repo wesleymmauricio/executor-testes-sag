@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJ/y/rhsqX/02k/2bXpi7tTaFC4js7yVBA70D+2lC6FVXdA4phg/49tyi6yZ96S6MhOtuF+rsSW0VaMyinZs6g==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\Wesley\\Projeto Teste\\TestesFuncionaisSAG\\TestesFuncionaisSAG.Formulario\\TestesFuncionaisSAG.Formulario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enzom\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\enzom\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.19.0\\microsoft.identitymodel.abstractions.6.19.0.nupkg.sha512",
+    "C:\\Users\\enzom\\.nuget\\packages\\microsoft.identitymodel.logging\\6.19.0\\microsoft.identitymodel.logging.6.19.0.nupkg.sha512",
+    "C:\\Users\\enzom\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.19.0\\microsoft.identitymodel.tokens.6.19.0.nupkg.sha512",
+    "C:\\Users\\enzom\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\enzom\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\enzom\\.nuget\\packages\\selenium.support\\4.12.2\\selenium.support.4.12.2.nupkg.sha512",
+    "C:\\Users\\enzom\\.nuget\\packages\\selenium.webdriver\\4.12.2\\selenium.webdriver.4.12.2.nupkg.sha512",
+    "C:\\Users\\enzom\\.nuget\\packages\\selenium.webdriver.chromedriver\\116.0.5845.9600\\selenium.webdriver.chromedriver.116.0.5845.9600.nupkg.sha512",
+    "C:\\Users\\enzom\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\enzom\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
